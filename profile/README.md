@@ -5,5 +5,5 @@ _only bot you need_ in short. Our mission is to provide developers and discord s
 - API
 
 ## Credits
-- OzzyTheDev - Original Inspiration + Code
+- VulpoTheDev - Original Inspiration + Code
 - GizmoShiba - 0BYN Project Dev
